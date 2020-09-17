@@ -9,9 +9,9 @@ This is how you should format it:
 De bot vereist een "config.json" bestand in de hoofdfolder (bij je index.js) om te werken.
 Hieronder vind je hoe deze eruit moet zien:
 
--------------------------------------------------------------
+```
 { 
   "token"  : "YOurR34Lt0K3nH3ReandSTuffs4q567",
   "prefix" : "p?"
 }
--------------------------------------------------------------
+```
