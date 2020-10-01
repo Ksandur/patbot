@@ -5,8 +5,8 @@ module.exports = {
 	execute(message, args) {
         var aboutBuild = new Discord.RichEmbed()
         .setTitle("Build Information")
-        .addField("Current Build:", "PTB alpha v2.0")
-        .addField("Current Patch", "Patch PTB-1")
+        .addField("Current Build:", "PTB alpha v2.0.15")
+        .addField("Current Patch", "Patch PTB-7")
         .setImage("https://i.imgur.com/XpZA1TU.png")
         .setColor(0x3399FF)
         .setTimestamp()
